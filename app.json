@@ -1,0 +1,11 @@
+{
+  "version": "v1.0.0",
+  "release_name": "Robotics Expert System v1.0",
+  "repository": "https://github.com/YOUR_USERNAME/robotics-expert-system",
+  "assets": [
+    {
+      "name": "source-code.zip",
+      "url": "https://github.com/YOUR_USERNAME/robotics-expert-system/archive/refs/tags/v1.0.0.zip"
+    }
+  ]
+}
