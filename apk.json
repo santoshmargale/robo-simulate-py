@@ -1,0 +1,6 @@
+{
+  "download_url": "https://github.com/YOUR_USERNAME/robotics-expert-system/archive/refs/heads/main.zip",
+  "branch": "main",
+  "entry_file": "app.py",
+  "requirements": "requirements.txt"
+}
